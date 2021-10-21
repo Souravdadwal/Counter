@@ -1,0 +1,36 @@
+body{
+  background-color: turquoise;
+}
+.card{
+  position:absolute;
+  top:10%;
+  margin-left: 550px;
+  width: 400px; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background-color: tomato}
+div.back {
+  padding:20px ;
+ 
+}
+h1 { color: #ffffff; 
+  font-family: 'Raleway',sans-serif;
+  font-size: 62px; 
+  font-weight: 800; 
+  line-height: 72px;      
+  margin: 0;
+  text-align: center; 
+  text-transform: uppercase; }
+.h{
+  font-size: 180px;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: white;
+}
+button{
+  width: 20em;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: white;
+}
